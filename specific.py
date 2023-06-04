@@ -1,10 +1,10 @@
 import PyPDF2
 
 # Specify the path of the PDF file to open
-pdf_file_path = "3.pdf"
+pdf_file_path = "5.pdf"
 
 # Open the output text file
-with open("3printPDF.txt", "w") as output_file:
+with open("5printPDF.txt", "w") as output_file:
     # Open the PDF file
     with open(pdf_file_path, "rb") as file:
         reader = PyPDF2.PdfReader(file)

@@ -1,0 +1,86 @@
+1685819443060	geckodriver	INFO	Listening on 127.0.0.1:50562
+1685819452774	geckodriver	INFO	Listening on 127.0.0.1:50574
+1685819516027	geckodriver	INFO	Listening on 127.0.0.1:50708
+1685819519077	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50709" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\marte\\AppData\\Local\\Temp\\rust_mozprofilepZtPCz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1685819519293	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1685819519296	Marionette	INFO	Listening on port 50718
+Read port: 50718
+WebDriver BiDi listening on ws://127.0.0.1:50709
+1685819519371	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[ERROR glean_core] Error setting metrics feature config: Json(Error("EOF while parsing a value", line: 1, column: 0))
+DevTools listening on ws://127.0.0.1:50709/devtools/browser/fb1819ee-2d11-40c7-8b53-50c843e80294
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.walmart.com."
+JavaScript warning: https://drfdisvc.walmart.com/4zW_U4XBa6H1l2G7?aaf52ef18708d9ff=7vQGntqMj3onEel_z4BD1qlMfhai_3CwufZAzbrDJ3QPRHqrfK0tLtebalfm0sW1DCeDvqnYiHLZhH41vALfwjX1DbD0ILpNZI8xL-NBbGU1iwCf41cq0Qz1tlkPOXGclCdeJh3QdGGFZVHD8AiD1KleQ2blmS9BYEJ8mw9Fe4RgL-GAOtFoq9Eo4ijSvehuhMJNLzzDVcyO9xIN&jb=3631262662796d7d3d55696e6c677d7b2662736f35556b6c666d77712738303332266a7162753d466178676e6f7a266a7b6a374e697a6566677a273032333131, line 537: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://drfdisvc.walmart.com/pIyc7LInqW_U3hvV?7844df68dc2c9322=mUmUtXF2czo-qhGsPEBlKxFpsEmrmgU63zMrRl-okdWrkaW8BP4bbE6qmvhdVrQ6KGTYiDZx0avuqqz0iDPu9rl8WPyJEeroOzFAbROvKZI2NeNE3XJYmghPSQ3ifW1ErfOOczuuf6L5KJ7P9r5vUiCJ_REUvP3uj6v6tin0RRRR9Cq9j1BTExzpij-NFse7w1L_Ny4fmDdu7tte&jb=3631262662796d7d3d55696e6c677d7b2662736f35556b6c666d77712738303332266a7162753d466178676e6f7a266a7b6a374e697a6566677a273032333131, line 531: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1685819525806	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685819525810	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685819525814	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685819525828	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685819525831	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685819525834	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685819525837	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685819525842	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685819525844	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685819525847	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+JavaScript error: https://i5.walmartimages.com/dfw/63fd9f59-6db6/3d7ba38c-e4e4-4d7a-a78d-6a2f29c7c73e/v2/en-US/_next/static/chunks/pages/_app-6111ae95a5b7d8ac.js, line 1: TypeError: e is undefined
+JavaScript error: https://i5.walmartimages.com/dfw/63fd9f59-6db6/3d7ba38c-e4e4-4d7a-a78d-6a2f29c7c73e/v2/en-US/_next/static/chunks/pages/_app-6111ae95a5b7d8ac.js, line 1: TypeError: e is undefined
+JavaScript warning: https://www.walmart.com/px/PXu6b0qd2S/init.js, line 4: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 432: TypeError: channel is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.walmart.com."
+1685819555967	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685819555979	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685819555983	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685819555987	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685819555991	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1685819555995	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.warn: "Listener for event 'frame' did not return a promise."
+1685819556002	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.warn: "Listener for event 'frame' did not return a promise."
+1685819556007	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.warn: "Listener for event 'frame' did not return a promise."
+1685819556012	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.warn: "Listener for event 'frame' did not return a promise."
+1685819556016	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: https://i5.walmartimages.com/dfw/63fd9f59-6db6/3d7ba38c-e4e4-4d7a-a78d-6a2f29c7c73e/v2/en-US/_next/static/chunks/pages/_app-6111ae95a5b7d8ac.js, line 1: TypeError: e is undefined
+JavaScript error: https://i5.walmartimages.com/dfw/63fd9f59-6db6/3d7ba38c-e4e4-4d7a-a78d-6a2f29c7c73e/v2/en-US/_next/static/chunks/pages/_app-6111ae95a5b7d8ac.js, line 1: TypeError: e is undefined
+JavaScript error: https://i5.walmartimages.com/dfw/63fd9f59-6db6/3d7ba38c-e4e4-4d7a-a78d-6a2f29c7c73e/v2/en-US/_next/static/chunks/pages/_app-6111ae95a5b7d8ac.js, line 1: TypeError: e is undefined
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+[Child 23716, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 23716, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 23716, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 23716, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 23716, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 23716, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 23716, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+[Child 23716, Main Thread] WARNING: JSWindowActorChild::SendRawMessage (Conduits, ConduitClosed) not sent: !CanSend() || !mManager || !mManager->CanSend(): file /builds/worker/checkouts/gecko/dom/ipc/jsactor/JSWindowActorChild.cpp:57
+1685819594687	Marionette	INFO	Stopped listening on port 50718
+Dynamically enable window occlusion 1

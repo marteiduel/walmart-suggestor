@@ -10,6 +10,7 @@ keywords = [
     "SubstitutionsQty",
     "UnavailableQty",
     "Weight-adjustedQty",
+    "Qty"
 ]
 
 # Regular expression patterns
