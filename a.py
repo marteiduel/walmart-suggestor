@@ -4,6 +4,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
+from bs4 import BeautifulSoup
+
 # Path to your chromedriver executable
 chrome_driver_path = 'C:/path/to/chromedriver.exe'
 
@@ -52,14 +54,22 @@ for link in links:
     driver.get(link)
     arrow_down = driver.find_element(By.CLASS_NAME, "relative.mr3")
     arrow_down.click()
-    items = driver.find_element(
-        By.XPATH, "//div[@data-testid='category-accordion-Shopped']")
-    for item in items:
-        product_name = item.find_element(by=By.CLASS_NAME, value="w_V_DM")
-        print(product_name)
-        time.sleep(300)
-        # total_items = [div.get_attribute("class") for div in product_name]
-        # print(total_items)
+    accordeon = link.find(
+        'div', attrs={'data-testid': 'category-accordion-Shopped'})
+
+products = accordeon.find_all('div', attrs={'class': 'pa3 pb0 ph4-m'})
+
+total_number_of_products = len(products)
+
+for product in products:
+    product_name = product.find(
+        'div', attrs={'data-testid': "productName"}).text
+    product_quantity = product.find(
+        'div', attrs={'class': "pt1 f7 f6-m bill-item-quantity gray"}).text
+    product_price = product.find('span', attrs={'aria-hidden': "false"}).text
+    print(product_name)
+    print(product_quantity)
+    print(product_price)
 
 
 time.sleep(300)
